@@ -1,6 +1,6 @@
 # Sobre mim :man_technologist: 
 
-### <img src="https://github.com/ulaecio/teste/main/blob/Assets/Hi.gif" width="29px"> E aí, como vai?&nbsp;<img src="https://github.com/ulaecio/teste/main/blob/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/ulaecio/teste/blob/main/Assets/Hi.gif" width="29px"> E aí, como vai?&nbsp;<img src="https://github.com/ulaecio/teste/blob/main/Assets/Earth.gif" width="24px">
 
 Meu nome é Ulaecio, sou graduado em Sistemas de Informação pela <a href="http://sou.undb.edu.br/"><b>UNDB</b></a> e sou louco desde cedo por tecnologias.<img src="https://github.com/ulaecio/teste/main/blob/master/Assets/Rocket.gif" height="18px">
 Em experiências passadas, como Analista de Sistemas, eu participei de vários projetos que foram importantes para minha carreira na area de TI, mas meu foco atual é em desenvolvimento de softwares e aplicativos. Devido a dificuldades financeiras não tive a oportunidade de me graduar mais cedo, logo após o ensino médio. Após de muito esforço e trabalho para manter meus estudos, finalizei minha graduação e imergi de vez na área de Tecnologia.
