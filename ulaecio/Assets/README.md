@@ -10,7 +10,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 
 <br/>
 
-<img align="right" src="https://github.com/ulaecio/teste/main/blob/Assets/Developer.gif"/>
+<img align="right" height="350" src="https://github.com/ulaecio/teste/blob/main/ulaecio/Assets/Dev.svg" />
 
 ## 🌱 Atualmente estou trabalhando/aprendendo com ...
 <br/>
