@@ -10,16 +10,16 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 
 <br/>
 
-<img align="right" src="https://github.com/ulaecio/teste/main/blob/Assets/Dev.svg"/>
+<img align="right" height="350" src="https://github.com/ulaecio/teste/blob/main/ulaecio/Assets/Dev.svg" />
 
 ## 🌱 Atualmente estou trabalhando/aprendendo com ...
 <br/>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
-<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
-<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></a></code>
+<code><a href="#"><img height="35" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
+<code><a href="#"><img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
+<code><a href="#"><img height="30" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
 <br/>
   <br/>
@@ -36,6 +36,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
     <br/>
 
 ## ⚡ Minhas certificações ...
+- **Semana DeveSuperior - Java com Spring Boot**
 - **Scrum Fundation Professional Certificate (SFPC) - CertiProf**
 - **Kanban Foundation Certificate (KIKF) - CertiProf**
 - **Information Security Foundation based on ISO IEC 27001 - EXIN**
