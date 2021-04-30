@@ -36,7 +36,8 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
     <br/>
 
 ## ⚡ Minhas certificações ...
-- **Semana DeveSuperior - Java com Spring Boot**
+- **BootCamp DeveSuperior - Aplicação fullstack com Java e Spring, React, CSS, HTML, Java Script**
+- **Semana DeveSuperior - Aplicação fullstack com Java e Spring, React, CSS, HTML, Java Script**
 - **Scrum Fundation Professional Certificate (SFPC) - CertiProf**
 - **Kanban Foundation Certificate (KIKF) - CertiProf**
 - **Information Security Foundation based on ISO IEC 27001 - EXIN**
