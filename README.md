@@ -61,4 +61,6 @@ Gosto de conversar, trocar ideias e sou focado no que quero..
   Obrigado 😁<br/>
 </p>
 <p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fulaecio%2F" /></p>
-
+<a href="https://dev.to/ulaecio">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ulaecio's DEV Community Profile" height="30" width="30">
+</a>
