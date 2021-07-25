@@ -2,9 +2,9 @@
 
 ### <img src="https://github.com/ulaecio/teste/blob/main/ulaecio/Assets/Hi.gif" width="29px"> E aí, como vai?&nbsp;<img src="https://github.com/ulaecio/teste/blob/main/ulaecio/Assets/Earth.gif" width="24px">
 
-Meu nome é Ulaecio, sou graduado em Sistemas de Informação pela <a href="http://sou.undb.edu.br/"><b>UNDB</b></a>. Sou louco desde cedo por tecnologias e muita vontade de aprender.<img src="https://github.com/ulaecio/teste/blob/main/ulaecio/Assets/Rocket.gif" height="18px">
+Meu nome é Ulaecio, sou graduado em Sistemas de Informação pela <a href="https://ulaecio.github.io/"><b>UNDB</b></a>. Sou louco desde cedo por tecnologias e muita vontade de aprender.<img src="https://github.com/ulaecio/teste/blob/main/ulaecio/Assets/Rocket.gif" height="18px">
 Em experiências passadas, como Analista de Sistemas, eu participei de vários projetos que foram importantes para minha carreira na area de TI, porém, meu foco sempre foi e é em desenvolvimento de softwares e aplicativos. Devido a dificuldades financeiras não tive a oportunidade de me graduar mais cedo, após o ensino médio. Após muito esforço e trabalho para manter meus estudos, finalizei minha graduação e imergi de vez na área de Tecnologia.
-Atualmente estou atuando como Técnico de Suporte na <a href="https://centralit.com.br/"><b>CENTRAL IT</b></a>.  <img src="https://github.com/ulaecio/teste/blob/main/ulaecio/Assets/Rocket.gif" height="18px"> mas, como meu desejo sempre foi ser programador estou me aperfeiçoando cada dia mais em Desenvolvimento Web e Mobile utilizando linguagens e ferramentas conceituadas do mercado, desenvolvimento de API Rest, manipulação de dados com Postgres, MySQL, versionamento de código no GitHub e deploy em núvem.
+Atualmente estou atuando como Técnico de Suporte na <a href="https://ulaecio.github.io/"><b>CENTRAL IT</b></a>.  <img src="https://github.com/ulaecio/teste/blob/main/ulaecio/Assets/Rocket.gif" height="18px"> mas, como meu desejo sempre foi ser programador estou me aperfeiçoando cada dia mais em Desenvolvimento Web e Mobile utilizando linguagens e ferramentas conceituadas do mercado, desenvolvimento de API Rest, manipulação de dados com Postgres, MySQL, versionamento de código no GitHub e deploy em núvem.
 Moro em São José de Ribamar - MA, tenho 2 filhos, um casal. Nas horas vagas, gosto tocar violão e/ou assistir um bom filme.
 Gosto de conversar, trocar ideias e sou focado no que quero..
 
@@ -51,7 +51,7 @@ Gosto de conversar, trocar ideias e sou focado no que quero..
 
 ## 📫 Como me encontrar: ...
 <p align="center">
- <a href="https://www.linkedin.com/in/ulaecio/" target="blank">
+ <a href="https://ulaecio.github.io/" target="blank">
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp;
  </a>
   <br/>
