@@ -36,6 +36,7 @@ Gosto de conversar, trocar ideias e sou focado no que quero..
     <br/>
 
 ## ⚡ Minhas certificações ...
+- **BootCamp Fullstack Santander 2021 - EM ANDAMENTO... Aplicação fullstack com Java e Spring, React, CSS, HTML, Java Script.**
 - **BootCamp DeveSuperior 2021 - EM ANDAMENTO... Aplicação fullstack com Java e Spring, React, CSS, HTML, Java Script.**
 - **Semana DeveSuperior 2021 - Aplicação fullstack com Java e Spring, React, CSS, HTML, Java Script**
 - **Scrum Fundation Professional Certificate (SFPC) - CertiProf**
@@ -58,7 +59,7 @@ Gosto de conversar, trocar ideias e sou focado no que quero..
   <br/>
 
  <br/>
-  Obrigado 😁<br/>
+  Obrigado 😁 <br/>
 </p>
 <p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fulaecio%2F" /></p>
 <a href="https://dev.to/ulaecio">
