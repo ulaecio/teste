@@ -2,13 +2,15 @@
 
 ### <img src="https://github.com/ulaecio/teste/blob/main/ulaecio/Assets/Hi.gif" width="29px"> E aí, como vai?&nbsp;<img src="https://github.com/ulaecio/teste/blob/main/ulaecio/Assets/Earth.gif" width="24px">
 
-Meu nome é Ulaecio, sou graduado em Sistemas de Informação pela <a href="https://ulaecio.github.io/"><b>UNDB</b></a>. Sou louco desde cedo por tecnologias e muita vontade de aprender.<img src="https://github.com/ulaecio/teste/blob/main/ulaecio/Assets/Rocket.gif" height="18px">
-Em experiências passadas, como Analista de Sistemas e Técnico de suporte, eu participei de vários projetos e aprendizados de Governança e Segurança da Informação que foram importantes para minha carreira na area de TI, porém, meu foco sempre foi e é em desenvolvimento de softwares e aplicativos. Devido a dificuldades financeiras não tive a oportunidade de me graduar mais cedo, após o ensino médio. Após muito esforço e trabalho para manter meus estudos, finalizei minha graduação e imergi de vez na área de Tecnologia.
-Atualmente estou atuando como Analista Desenvolvedor na <a href="https://ulaecio.github.io/"><b>Psiu - MA</b></a>.  <img src="https://github.com/ulaecio/teste/blob/main/ulaecio/Assets/Rocket.gif" height="18px"> Trabalhando com sistemas legados, manipulação de Banco de Dados Oracle com SQL e estou me aperfeiçoando cada dia mais em Desenvolvimento Web e Mobile utilizando linguagens e ferramentas conceituadas do mercado, desenvolvimento de API Rest, versionamento de código no GitHub e deploy em núvem.
-Moro em São José de Ribamar - MA, tenho 2 filhos, um casal. Nas horas vagas, gosto tocar violão e/ou assistir um bom filme.
-Gosto de conversar, trocar ideias e sou focado no que quero..
+Meu nome é Ulaecio, sou graduado em Sistemas de Informação pela <a href="https://ulaecio.github.io/">UNDB</a>. Sou louco desde cedo por tecnologias e muita vontade de aprender.<img src="https://github.com/ulaecio/teste/blob/main/ulaecio/Assets/Rocket.gif" height="18px">
+Em experiências passadas, como Analista de Sistemas e Técnico de suporte, eu participei de vários projetos e aprendizados de Governança e Segurança da Informação que foram importantes para minha carreira na area de TI, porém, meu foco sempre foi e é em desenvolvimento de softwares e aplicativos.
+Devido a dificuldades financeiras não tive a oportunidade de me graduar mais cedo, pós ensino médio. Após muito esforço e trabalho para manter meus estudos, finalizei minha graduação e imergi de vez na área de Tecnologia.
+<br>
+Atualmente estou atuando como Analista Desenvolvedor na <a href="https://ulaecio.github.io/">PSIU - Idustria de bebidas</a>. <img src="https://github.com/ulaecio/teste/blob/main/ulaecio/Assets/Rocket.gif" height="18px"> trabalhando com manipulação de <a href="https://github.com/ulaecio">Banco de Dados Oracle</a> com <a href="https://ulaecio.github.io/">Linguagem SQL</a>, <a href="https://github.com/ulaecio">Desenvolvimento Web e Mobile</a> utilizando linguagens e ferramentas conceituadas do mercado e suporte em <a href="https://ulaecio.github.io/">Sistemas Legados</a>(Roteirizador de Tranportes, Vendas, Administrativos e Comerciais). 
+<br>
+Moro em São José de Ribamar - MA, tenho 2 filhos, um casal. Nas horas vagas, gosto tocar violão e/ou assistir um bom filme. Gosto de conversar, trocar ideias e sou focado em minhas metas
 
-<br/>
+<br>
 
 <img align="right" height="350" src="https://github.com/ulaecio/teste/blob/main/ulaecio/Assets/Dev.svg" />
 
