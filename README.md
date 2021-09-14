@@ -12,6 +12,18 @@ Moro em São José de Ribamar - MA, tenho 2 filhos, um casal. Nas horas vagas, g
 
 <br>
 
+ <div>
+  <a href="https://github.com/ulaecio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ulaecio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulaecio&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<br>
+  
+  ![Snake animation](https://github.com/ulaecio/ulaecio/blob/output/github-contribution-grid-snake.svg)
+  
+<br>
+
 <img align="right" height="350" src="https://github.com/ulaecio/teste/blob/main/ulaecio/Assets/Dev.svg" />
 
 ## 🌱 Atualmente estou trabalhando/aprendendo com ...
@@ -22,7 +34,7 @@ Moro em São José de Ribamar - MA, tenho 2 filhos, um casal. Nas horas vagas, g
 <code><a href="#"><img height="35" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
 <code><a href="#"><img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
 <code><a href="#"><img height="30" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></a></code>
-<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
+<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></a></code>
 <br/>
   <br/>
     <br/>
@@ -32,6 +44,7 @@ Moro em São José de Ribamar - MA, tenho 2 filhos, um casal. Nas horas vagas, g
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></a></code>
+<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
 
 <br/>
   <br/>
@@ -45,12 +58,6 @@ Moro em São José de Ribamar - MA, tenho 2 filhos, um casal. Nas horas vagas, g
 - **Kanban Foundation Certificate (KIKF) - CertiProf**
 - **Information Security Foundation based on ISO IEC 27001 - EXIN**
 <br/>
-
-
-## Github Status ...
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ulaecio&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
-</p>  
 
 ## 📫 Como me encontrar: ...
 <p align="center">
