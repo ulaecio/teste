@@ -7,7 +7,7 @@ Em experiências passadas, como Analista de Sistemas e Técnico de suporte, eu p
 <br>
 Atualmente trabalho como Analista Desenvolvedor na <a href="https://ulaecio.github.io/">PSIU - Idustria de bebidas</a>. <img src="https://github.com/ulaecio/teste/blob/main/ulaecio/Assets/Rocket.gif" height="18px"> trabalhando com manipulação de dados em <a href="https://github.com/ulaecio">Banco de Dados Oracle</a> com <a href="https://ulaecio.github.io/">Linguagem SQL</a>, <a href="https://github.com/ulaecio">Desenvolvimento de aplicações Web/Mobile</a> utilizando linguagens e ferramentas conceituadas do mercado e suporte em <a href="https://ulaecio.github.io/">Sistemas Legados</a>(Roteirizador de Tranportes, Vendas, Administrativos e Comerciais). 
 <br>
-Moro em São José de Ribamar - MA, tenho 2 filhos, um casal. Nas horas vagas, gosto tocar violão e/ou assistir um bom filme. Gosto de conversar, trocar ideias e sou focado em minhas metas
+Moro em São José de Ribamar - MA, tenho 2 filhos, um casal. Nas horas vagas, gosto tocar violão e/ou assistir um filme. Gosto de conversar, trocar ideias e sou focado em minhas metas
 
 <br>
 
