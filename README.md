@@ -3,9 +3,9 @@
 ### <img src="https://github.com/ulaecio/teste/blob/main/ulaecio/Assets/Hi.gif" width="29px"> E aí, como vai?&nbsp;<img src="https://github.com/ulaecio/teste/blob/main/ulaecio/Assets/Earth.gif" width="24px">
 
 Meu nome é Ulaecio, sou graduado em Sistemas de Informação pela <a href="https://ulaecio.github.io/">UNDB</a>. Sou louco desde cedo por tecnologias e muita vontade de aprender.<img src="https://github.com/ulaecio/teste/blob/main/ulaecio/Assets/Rocket.gif" height="18px">
-Em experiências passadas, como Analista de Sistemas e Técnico de suporte, eu participei de vários projetos e aprendizados de Governança e Segurança da Informação que foram importantes para minha carreira.
+Em experiências passadas, participei de vários projetos e aprendizados de Governança e Segurança da Informação e desenvolvimento de softwares que foram importantes para minha carreira.
 <br>
-Atualmente trabalho como Analista Desenvolvedor Java na <a href="https://ulaecio.github.io/">PSIU - Idustria de bebidas</a>. <img src="https://github.com/ulaecio/teste/blob/main/ulaecio/Assets/Rocket.gif" height="18px"> trabalhando com manipulação de dados em <a href="https://github.com/ulaecio">Banco de Dados Oracle</a> com <a href="https://ulaecio.github.io/">Linguagem SQL</a>, <a href="https://github.com/ulaecio">Desenvolvimento de aplicações Web/Mobile</a> utilizando linguagens e ferramentas conceituadas do mercado e suporte em <a href="https://ulaecio.github.io/">Sistemas Legados</a>(Roteirizador de Tranportes, Vendas, Administrativos e Comerciais). 
+Atualmente trabalho como Desenvolvedor Java na <a href="https://www.mjvinnovation.com/">MJV Technology and Innovation</a>. <img src="https://github.com/ulaecio/teste/blob/main/ulaecio/Assets/Rocket.gif" height="18px"> trabalhando com manipulação de dados em <a href="https://github.com/ulaecio">Banco de Dados Oracle</a> com <a href="https://ulaecio.github.io/">Linguagem SQL</a>, <a href="https://github.com/ulaecio">Desenvolvimento de aplicações Java Web</a> utilizando linguagens e ferramentas conceituadas do mercado e suporte em <a href="https://ulaecio.github.io/">Sistemas</a>. 
 <br>
 Moro em São José de Ribamar - MA, tenho 2 filhos, um casal. Nas horas vagas, gosto tocar violão e/ou assistir um filme. Gosto de conversar, trocar ideias e sou focado em minhas metas
 
