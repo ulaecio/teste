@@ -50,8 +50,9 @@ Moro em São José de Ribamar - MA, tenho 2 filhos, um casal. Nas horas vagas, g
     <br/>
 
 ## ⚡ Minhas certificações ...
-- **BootCamp Fullstack Santander 2021 - EM ANDAMENTO... Aplicação fullstack com Java e Spring, React, CSS, HTML, Java Script.**
-- **BootCamp DeveSuperior 2021 - EM ANDAMENTO... Aplicação fullstack com Java e Spring, React, CSS, HTML, Java Script.**
+- **BootCamp AlgaWorks 2023 - Aplicação fullstack com Java e Spring, React, CSS, HTML, Java Script.**
+- **BootCamp Fullstack Santander 2021 - Aplicação fullstack com Java e Spring, React, CSS, HTML, Java Script.**
+- **BootCamp DeveSuperior 2021 - Aplicação fullstack com Java e Spring, React, CSS, HTML, Java Script.**
 - **Semana DeveSuperior 2021 - Aplicação fullstack com Java e Spring, React, CSS, HTML, Java Script**
 - **Scrum Fundation Professional Certificate (SFPC) - CertiProf**
 - **Kanban Foundation Certificate (KIKF) - CertiProf**
