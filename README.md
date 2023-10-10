@@ -13,7 +13,7 @@ Moro em São José de Ribamar - MA, tenho 2 filhos, um casal. Nas horas vagas, g
 
  <div>
   <a href="https://github.com/ulaecio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ulaecio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ulaecio&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulaecio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
