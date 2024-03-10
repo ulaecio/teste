@@ -7,7 +7,7 @@ Em experiências passadas, participei de vários projetos e aprendizados de Gove
 <br>
 Em minha ultima experiência trabalhei como Desenvolvedor Java na <a href="https://www.mjvinnovation.com/">MJV Technology and Innovation</a>. <img src="https://github.com/ulaecio/teste/blob/main/ulaecio/Assets/Rocket.gif" height="18px"> trabalhando com manipulação de dados em <a href="https://github.com/ulaecio">Banco de Dados Oracle</a> com <a href="https://ulaecio.github.io/">Linguagem SQL</a>, <a href="https://github.com/ulaecio">Desenvolvimento de aplicações Java Web</a> utilizando linguagens e ferramentas conceituadas do mercado e suporte em <a href="https://ulaecio.github.io/">Sistemas</a>. 
 <br>
-Moro em São José de Ribamar - MA, tenho 2 filhos, um casal. Nas horas vagas, gosto tocar violão e/ou assistir um filme. Gosto de conversar, trocar ideias e sou focado em minhas metas
+Moro em Campinas - SP, tenho 2 filhos, um casal. Nas horas vagas, gosto tocar violão e/ou assistir um filme. Gosto de conversar, trocar ideias e sou focado em minhas metas
 
 <br>
 
